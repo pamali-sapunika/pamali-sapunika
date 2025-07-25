@@ -23,3 +23,9 @@
 
 <div width="100%" align="center"><a href="https://github.com/pamali-sapunika/CasaBella-HotelBooking" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pamali-sapunika&repo=CasaBella-HotelBooking&title_color=facc15&text_color=444e59&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<div width="100%" align="center"><a href="https://github.com/pamali-sapunika/Personal_Vault_Expenses_Tracker_AF" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pamali-sapunika&repo=Personal_Vault_Expenses_Tracker_AF&title_color=10b981&text_color=444e59&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/pamali-sapunika/Vehicle_Parking_Mate" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pamali-sapunika&repo=Vehicle_Parking_Mate&title_color=3382ed&text_color=444e59&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/pamali-sapunika/Maalima_REST_Countries_API_AF" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pamali-sapunika&repo=Maalima_REST_Countries_API_AF&title_color=f97316&text_color=444e59&icon_color=444e59&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
